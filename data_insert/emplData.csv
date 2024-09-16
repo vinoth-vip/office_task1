@@ -1,0 +1,10 @@
+employee_id,first_name,last_name,email,phone_number,hire_date,job_id,salary,manager_id,department_id,date_of_birth,gender,address_line1,address_line2,city,state,postal_code,country,employment_status,last_performance_review,emergency_contact_name,emergency_contact_phone
+404,John,Doe,john.doe1@example.com,1234567890,01-01-2023,DEV,55000,101,1,15-05-1990,M,123 Main St,,New York,NY,10001,USA,Active,01-06-2023,Jane Doe,987654321
+444,Jane,Smith,jane.smith2@example.com,987654321,10-03-2022,HR,60000,102,2,23-08-1985,F,456 Oak St,Apt 5B,Los Angeles,CA,90001,USA,Active,10-03-2023,John Smith,1234567890
+332,komathi,lakshmi,first.last100@example.com,987612345,01-11-2020,FIN,75000,103,10,25-01-1980,M,789 Pine St,,Houston,TX,77001,USA,Inactive,10-10-2021,Contact100,987654321
+333,divya,sri,john.doe1@example.com,1234567890,01-01-2023,DEV,55000,101,1,15-05-1990,M,123 Main St,,New York,NY,10001,USA,Active,01-06-2023,Jane Doe,987654321
+335,sai,sharan,jane.smith2@example.com,987654321,10-03-2022,HR,60000,102,2,23-08-1985,F,456 Oak St,Apt 5B,Los Angeles,CA,90001,USA,Active,10-03-2023,John Smith,1234567890
+448,murali,prasad,first.last100@example.com,987612345,01-11-2020,FIN,75000,103,10,25-01-1980,M,789 Pine St,,Houston,TX,77001,USA,Inactive,10-10-2021,Contact100,987654321
+457,jana,JJ,john.doe1@example.com,1234567890,01-01-2023,DEV,55000,101,1,15-05-1990,M,123 Main St,,New York,NY,10001,USA,Active,01-06-2023,Jane Doe,987654321
+590,Hari,Haran,jane.smith2@example.com,987654321,10-03-2022,HR,60000,102,2,23-08-1985,F,456 Oak St,Apt 5B,Los Angeles,CA,90001,USA,Active,10-03-2023,John Smith,1234567890
+221,Venkat,prabhu,first.last100@example.com,987612345,01-11-2020,FIN,75000,103,10,25-01-1980,M,789 Pine St,,Houston,TX,77001,USA,Inactive,10-10-2021,Contact100,987654321

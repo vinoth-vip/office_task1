@@ -1,0 +1,5 @@
+host=localhost
+database=CDSLiteDB
+user=postgres
+password=Yellow7la$h
+port=5432

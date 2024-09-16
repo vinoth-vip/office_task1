@@ -1,0 +1,8 @@
+<query>
+    INSERT INTO cbase.emplData (emplid,
+    first_name, last_name, email, phone_number, hire_date, job_id, salary,
+    manager_id, department_id, date_of_birth, gender, address_line1,
+    address_line2, city, state, postal_code, country, employment_status,
+    last_performance_review, emergency_contact_name, emergency_contact_phone
+) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);
+</query>
